@@ -6,7 +6,7 @@
     Software Engineer <br>
     :school: National Higher School of Engineering of Tunis <br>
     :sparkles: Favorite Tech: Javascript <br>
-    :notebook: I’m currently learning C++ <br>
+    :notebook: I’m currently learning Machine learning  <br>
     :email:	inestmimi1234@gmail.com <br>
     
   </samp>
