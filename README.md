@@ -13,14 +13,24 @@
 
 - 📫 How to reach me: [inestmimi1234@gmail.com](mailto:inestmimi1234@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+## Table of Contents
+- [Connect with Me](#connect-with-me)
+- [Languages](#languages)
+- [Frameworks](#frameworks)
+- [Databases](#databases)
+- [Web Languages](#web-languages)
+- [Tools](#tools)
+- [Operating Systems](#operating-systems)
+
+## Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/ines-tmimi-06887129b/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
 </p>
 
-<h3 align="left">Languages:</h3>
+## Languages
 <table>
   <tr>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a></td>
@@ -32,7 +42,7 @@
   </tr>
 </table>
 
-<h3 align="left">Frameworks:</h3>
+## Frameworks
 <table>
   <tr>
     <td><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a></td>
@@ -45,7 +55,7 @@
   </tr>
 </table>
 
-<h3 align="left">Databases:</h3>
+## Databases
 <table>
   <tr>
     <td><a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a></td>
@@ -54,7 +64,7 @@
   </tr>
 </table>
 
-<h3 align="left">Web Languages:</h3>
+## Web Languages
 <table>
   <tr>
     <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
@@ -62,7 +72,7 @@
   </tr>
 </table>
 
-<h3 align="left">Tools:</h3>
+## Tools
 <table>
   <tr>
     <td><a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://bun.sh/logo.svg" alt="Bun.js" width="40" height="40"/></a></td>
@@ -75,7 +85,7 @@
   </tr>
 </table>
 
-<h3 align="left">Operating Systems:</h3>
+## Operating Systems
 <table>
   <tr>
     <td><a href="https://www.ubuntu.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a></td>
