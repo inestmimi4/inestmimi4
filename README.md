@@ -11,7 +11,7 @@
   </samp>
 </p>
 
-- 📫 How to reach me: [inestmimi1234@gmail.com](mailto:inestmimi1234@gmail.com)
+- 📫 How to reach me: [inestmimi1234@gmail.com](mailto:inestmimi1234@gmail.com) , [ines.tmimi@ensit.u-tunis.tn](mailto:ines.tmimi@ensit.u-tunis.tn)
 
 ## Table of Contents
 - [Connect with Me](#connect-with-me)
