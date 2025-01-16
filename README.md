@@ -95,9 +95,7 @@
   <a href="https://bun.sh" target="_blank" rel="noreferrer">
     <img src="https://bun.sh/logo.svg" alt="Bun.js" width="40" height="40"/>
   </a>
-  <a href="https://elysia.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/elysiajs/elysia/main/docs/logo.svg" alt="Elysia.js" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -110,27 +108,14 @@
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
+  
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://numpy.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   </a>
-  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tkinter/tkinter-original.svg" alt="Tkinter" width="40" height="40"/>
-  </a>
-  <a href="https://openjfx.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" alt="JavaFX" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bison/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" alt="Bison" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/flex/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" alt="Flex" width="40" height="40"/>
-  </a>
+  
 </p>
 
 <h3 align="left">Operating Systems:</h3>
