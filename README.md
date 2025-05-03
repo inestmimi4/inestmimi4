@@ -91,6 +91,9 @@
     <td><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a></td>
     <td><a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
     <td><a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a></td>
+    <td><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a></td>
+    <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/></a></td>
+  
   </tr>
 </table>
 
@@ -107,3 +110,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ines312692)](https://github.com/ines312692/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ines312692)](https://github.com/ines312692/github-readme-stats)
+
+
+
