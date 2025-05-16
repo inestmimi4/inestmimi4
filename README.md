@@ -3,7 +3,7 @@
   <br>
   <samp>
     Hello, I'm Ines! 👋<br>
-    Software Engineer <br>
+    Software Engineering student <br>
     :school: National Higher School of Engineering of Tunis <br>
     :sparkles: Favorite Tech: Javascript <br>
     :notebook: I’m currently learning Machine Learning <br>
